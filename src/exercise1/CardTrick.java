@@ -9,6 +9,9 @@ import java.util.Scanner;
  * To be used as starting code in Exercise
  *
  * @author Harshdeep Harshdeep 6 feb 2022
+ * but i have updated it again as per requirement
+ * ####################################################
+ * #################################
  * @author Paul Bonenfant Jan 25, 2022 
  */
 public class CardTrick {

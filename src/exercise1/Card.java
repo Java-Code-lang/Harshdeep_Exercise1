@@ -8,6 +8,10 @@ package exercise1;
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
  * @author Harshdeep Harshdeep 
+ * I am updating it
+ * ###################################################
+ * ##########################################
+ * ######################################
  * @author Paul Bonenfant May 2020
  */
 public class Card {
